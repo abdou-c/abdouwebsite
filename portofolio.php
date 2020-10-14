@@ -31,5 +31,8 @@ function dbConnection(){
    return $ok->exec($sql);
     
  }
+ function confirmer($subconf){
+    
+ }
 
 ?>

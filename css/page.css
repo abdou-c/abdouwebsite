@@ -1,0 +1,18 @@
+body{
+    background-color: #155724;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+input{
+    border-radius: 10px;
+    font-size: 20px ;
+    cursor: pointer;
+    margin: 50px;
+    margin-left: 500px;
+}
+input:hover{
+    background-color: #ffc107;
+    font-size: 22px;
+}
